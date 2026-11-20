@@ -283,31 +283,31 @@ Screenshots documenting the practical exercise are included below.
 
 ### 10.1 Hash Extraction
 
-![Hash Extraction](screenshots/hash-extraction.png)
+![Hash Extraction](1_hash_extraction.png)
 
 *Demonstration of extracting password hash information from a protected document.*
 
 ### 10.2 NetworkWalks Official Hash Calculator
 
-![Hash Calculator](screenshots/hash-calculator.png)
+![Hash Calculator](2_NetworkWalks_Official_hashcalculator.png)
 
 *Demonstration of cryptographic hash generation and analysis.*
 
 ### 10.3 John the Ripper
 
-![John the Ripper](screenshots/john-the-ripper.png)
+![John the Ripper](3_johntheripper_johnny.png)
 
 *Terminal demonstration of hash loading and password auditing using John the Ripper.*
 
 ### 10.4 NetworkWalks Password Kcracker
 
-![Password Kcracker](screenshots/password-kcracker.png)
+![Password Kcracker](4_NetworkWalks_passwordcracker.png)
 
 *Practical exploration of password recovery using the NetworkWalks Password Kcracker.*
 
 ### 10.5 Password Recovery Results
 
-![Password Recovery Results](screenshots/password-recovery.png)
+![Password Recovery Results](5_Password_recovery_result.png)
 
 *Evidence of the password recovery process, where applicable.*
 
